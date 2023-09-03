@@ -3,4 +3,5 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
  - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/SDhinton1/OsTicketPre)
+    - [osTicket: Prerequisites and Installation](https://github.com/SDhinton1/OsTicketPre)
+    - [osTicket: Postinstallation and configuration](https://github.com/SDhinton1/PostInstallation-Config)

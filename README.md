@@ -6,3 +6,5 @@
     - [osTicket: Prerequisites and Installation](https://github.com/SDhinton1/OsTicketPre)
     - [osTicket: Postinstallation and configuration](https://github.com/SDhinton1/PostInstallation-Config)
     - [osTicket: Ticket Lifecycle Examples](https://github.com/SDhinton1/Ticketing-System/blob/main/README.md)
+ - <b>Microsoft Azure</b>
+   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/SDhinton1/Azure-Network-Traffic)
